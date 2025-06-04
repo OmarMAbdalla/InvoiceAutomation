@@ -30,8 +30,8 @@ This Google Apps Script automates invoicing for service-based professionals usin
 1. Go to [script.google.com](https://script.google.com/)
 2. Paste the script into a new Apps Script project
 3. Replace:
-   - `"YOUR_CALENDAR_ID"` with your calendar’s ID
-   - `"YOUR_SHEET_ID"` with your Google Sheet ID
+   - `"YOUR_GOOGLE_CALENDAR_ID"` with your calendar’s ID
+   - `"YOUR_GOOGLE_SHEET_ID"` with your Google Sheet ID
    - `"YOUR NAME"` with your real/business name
 4. In the Apps Script menu, go to **Triggers → Add Trigger**
    - Choose `generateInvoices`
